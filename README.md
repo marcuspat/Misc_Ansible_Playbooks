@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="Misc_Ansible_Playbooks — animated banner" width="100%"></p>
+
 # Miscellaneous Ansible Playbooks
 
 Collection of useful Ansible playbooks for system administration, configuration management, and automation tasks.
